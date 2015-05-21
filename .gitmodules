@@ -1,0 +1,6 @@
+[submodule "sites/all/modules/ping_pong"]
+	path = sites/all/modules/ping_pong
+	url = https://github.com/davethemaker/ping_pong.git
+[submodule "sites/all/modules/sum_submodule"]
+	path = sites/all/modules/sum_submodule
+	url = https://github.com/BabaYaga64/SumFormDrupal.git
